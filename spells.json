@@ -1,0 +1,25 @@
+{
+      "spells": [
+          {
+              "name": "Огненный шар",
+              "cost": 30,
+              "damage": 50,
+              "cooldown": 5,
+              "level": 1
+          },
+          {
+              "name": "Ледяная стрела",
+              "cost": 25,
+              "damage": 40,
+              "cooldown": 4,
+              "level": 1
+          },
+          {
+              "name": "Молния",
+              "cost": 40,
+              "damage": 60,
+              "cooldown": 6,
+              "level": 2
+          }
+      ]
+  }
